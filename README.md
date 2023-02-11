@@ -8,7 +8,7 @@ This Django app provides models for students and teachers, along with a relation
 
 ## Installation
 1. Clone the repository <br>
-``` git clone https://github.com/UsmanRepos/django-rest-frame-work-cars-app.git ``` <br><br>
+``` git clone https://github.com/UsmanRepos/django-rest-frame-work-school-app.git ``` <br><br>
 2. Install the required packages <br>
 ``` pip install -r requirements.txt ``` <br><br>
 3. Run migrations <br>
