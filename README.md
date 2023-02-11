@@ -1,4 +1,4 @@
-# Django Student-Teacher App
+# School App
 This Django app provides models for students and teachers, along with a relationship to courses offered. The app makes use of inheritance from a BaseModel, which includes basic information such as name, email, and creation/update dates.
 
 ## Requirements
